@@ -1,2 +1,2 @@
 # Projetos em Grupo
-Aqui podem ver os vários projetos universitários em que fiz parte de várias equipas de desenvolvimento.
+Nesta pasta poderá observar alguns dos projetos universitários que desenvolvi, onde fiz parte de várias equipas de desenvolvimento.
