@@ -1,2 +1,2 @@
 # Projetos
-Aqui poderão encontrar os projetos desenvolvidos por mim, desde projetos em grupo até projetos individuais, nas variadas linguagens de programação.
+Nesta pasta poderá observar alguns dos projetos que desenvolvi, quer em contexto académico, quer num âmbito pessoal
